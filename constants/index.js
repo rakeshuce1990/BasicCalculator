@@ -1,0 +1,10 @@
+export const ADD ='add';
+export const CLEAR = 'c1';
+export const CLEAR_ALL = 'c2';
+export const DIVIDE = 'divide';
+export const MULTIPLY = 'multiply';
+export const SUBTRACT = 'subtract';
+export const CALCULATE = 'calculate';
+export const CLEAR_DATA = 'clear_data';
+export const SELECT_NUMBER = 'select_number';
+export const SELECT_OPERATOR = 'select_operator';

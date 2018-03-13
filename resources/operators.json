@@ -1,0 +1,22 @@
+[
+    {
+        "id":"o1",
+        "val": "+",
+        "type": "add"
+    },
+    {
+        "id":"o2",
+        "val": "-",
+        "type": "subtract"
+    },
+    {
+        "id":"o3",
+        "val": "*",
+        "type": "multiply"
+    },
+    {
+        "id":"o4",
+        "val": "/",
+        "type": "divide"
+    }
+]
